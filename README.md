@@ -1,4 +1,5 @@
-## Example django project demonstrating usecase of django_Q
+## Example Django project demonstrating usecase of django_q
+
 
 ### How to run ?
 
