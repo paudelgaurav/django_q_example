@@ -1,6 +1,7 @@
+## Example django project demonstrating usecase of django_Q
+
 ### How to run ?
 
-#### Repo for my medium article
 
 ##### Pull the code from the server.
 
