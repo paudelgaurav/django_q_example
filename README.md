@@ -42,3 +42,7 @@ python manage.py qcluster
 ```sh
 python manage.py runserver
 ```
+---
+
+##### Scraping logic is handeled here
+https://github.com/paudelgaurav/content_aggregator/blob/master/news/utils.py
