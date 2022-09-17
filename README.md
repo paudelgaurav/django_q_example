@@ -44,5 +44,4 @@ python manage.py runserver
 ```
 ---
 
-##### Scraping logic is handeled here
-https://github.com/paudelgaurav/content_aggregator/blob/master/news/utils.py
+##### Scraping logic is handeled in this [util](https://github.com/paudelgaurav/content_aggregator/blob/master/news/utils.py)
